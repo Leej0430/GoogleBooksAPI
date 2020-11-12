@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GoogleBooksAPI</string>
+    <string-array name="print_type_options">
+        <item>ALL</item>
+        <item>BOOKS</item>
+        <item>MAGAZINS</item>
+    </string-array>
 </resources>
